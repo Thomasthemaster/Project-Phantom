@@ -30,7 +30,9 @@ The project combines electronics, programming, physical props, storytelling, and
 
 ![Original briefing letter BACK](assets/images/Briefing_Letter_BACK.png)
 
-![Investigator field notes](assets/images/field-notes.jpg)
+![Investigator field notes FRONT](assets/images/Field_Notes_FRONT.png)
+
+![Investigator field notes BACK](assets/images/Field_Notes_BACK.png)
 
 ---
 
