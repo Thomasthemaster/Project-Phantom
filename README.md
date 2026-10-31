@@ -1,15 +1,5 @@
 # 🕵️ PROJECT PHANTOM
 
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Thomasthemaster/Project-Phantom/main/assets/images/Project_Phantom_Image.png"
-    alt="PROJECT PHANTOM device"
-    width="700"
-  />
-</p>
-
-
 ![PROJECT PHANTOM device](assets/images/Project_Phantom_Image.png)
 
 **A DIY Arduino-powered Halloween escape room.**
