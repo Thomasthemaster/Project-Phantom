@@ -7,6 +7,8 @@ PROJECT PHANTOM is an interactive spy-themed mystery game built around an Arduin
 The project combines electronics, programming, physical props, storytelling, and puzzle design to create a personalized escape-room experience at home.
 
 > **Mission Status:** Successfully completed. The birthday agent played the game!
+>
+> You can build this at home yourself and play with it too!
 
 ---
 
