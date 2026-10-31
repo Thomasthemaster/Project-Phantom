@@ -87,7 +87,7 @@ The project uses the following components:
 | Green LED | D7 |
 | Red LED | D5 |
 
-**Important:** The MFRC522 reader is powered using 3.3V. Pin D10 is also configured as an OUTPUT to maintain SPI master mode on the Uno.
+**Important:** The MFRC522 reader is powered using 3.3V. Pin D10 is also configured as an OUTPUT to maintain SPI master mode on the Nano.
 
 ---
 
@@ -199,18 +199,15 @@ PROJECT-PHANTOM/
 │
 ├── src/
 │   └── PROJECT_PHANTOM/
-│       └── PROJECT_PHANTOM.ino
-│
-├── docs/
-│   ├── briefing-letter.pdf
-│   └── field-notes.pdf
+│       └── Project_Phantom.ino
 │
 ├── assets/
 │   ├── images/
-│   │   ├── phantom-device.jpg
-│   │   ├── briefing-letter.jpg
-│   │   ├── field-notes.jpg
-│   │   └── gameplay.jpg
+│   │   ├── Project_Phantom_Image.png
+│   │   ├── Briefing_Letter_FRONT.png
+│   │   ├── Briefing_Letter_BACK.png
+|   |   ├── Field_Notes_FRONT.png
+│   │   └── Field_Notes_BACK.png
 │   │
 │   └── rfid/
 │       └── tag-reference.md
@@ -227,7 +224,7 @@ PROJECT-PHANTOM/
 3. Install the U8g2 library.
 4. Connect the hardware according to the pin connection table.
 5. Open `PROJECT_PHANTOM.ino`.
-6. Select **Arduino Uno** as the board.
+6. Select **Arduino Nano** as the board.
 7. Select the correct COM port.
 8. Upload the sketch.
 9. Power the device and complete the startup test.
