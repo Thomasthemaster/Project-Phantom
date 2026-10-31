@@ -26,7 +26,8 @@ The project combines electronics, programming, physical props, storytelling, and
 | Field Notes | A special investigator worksheet for recording evidence and deductions. |
 
 <!-- Add your actual document images below. -->
-![Original briefing letter](assets/images/briefing-letter.jpg)
+![Original briefing letter FRONT](assets/images/Briefing_Letter_FRONT.png)
+![Original briefing letter BACK](assets/images/Briefing_Letter_BACK.png)
 
 ![Investigator field notes](assets/images/field-notes.jpg)
 
