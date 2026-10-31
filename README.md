@@ -1,6 +1,17 @@
 # 🕵️ PROJECT PHANTOM
 
-**A DIY Arduino-powered Halloween escape room.**
+
+<p align="center">
+  <img
+    src="assets/images/Project_Phantom_Image.png"
+    alt="PROJECT PHANTOM handheld investigation device"
+    width="700"
+  >
+</p>
+
+<p align="center">
+  <em>A DIY Arduino-powered Halloween escape room.</em>
+</p>
 
 PROJECT PHANTOM is an interactive spy-themed mystery game built around an Arduino Nano, an RFID scanner, and an OLED display. Players investigate the disappearance of a birthday present by discovering hidden RFID clues, solving puzzles, examining suspects, and uncovering a secret.
 
