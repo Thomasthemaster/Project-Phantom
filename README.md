@@ -259,7 +259,7 @@ The finished device and investigation materials were used in a real playthrough,
 
 Watch Project Phantom in play!
 
-[Project Phantom Video](https://youtu.be/yrEy9jjZd6U)
+[🔺Watch Project Phantom Video🔺](https://youtu.be/yrEy9jjZd6U)
 
 ---
 
