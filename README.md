@@ -255,7 +255,7 @@ The finished device and investigation materials were used in a real playthrough,
 
 ---
 
-## Youtube Video
+## 👻 Youtube Video
 
 Watch Project Phantom in play!
 
